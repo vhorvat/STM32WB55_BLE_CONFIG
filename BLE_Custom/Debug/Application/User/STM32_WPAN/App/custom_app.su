@@ -1,0 +1,7 @@
+/Users/viktorhorvat/STM32Cube/watchplant_BLE/BLE_Custom/STM32_WPAN/App/custom_app.c:96:6:Custom_STM_App_Notification	16	static
+/Users/viktorhorvat/STM32Cube/watchplant_BLE/BLE_Custom/STM32_WPAN/App/custom_app.c:168:6:Custom_APP_Notification	16	static
+/Users/viktorhorvat/STM32Cube/watchplant_BLE/BLE_Custom/STM32_WPAN/App/custom_app.c:205:6:Custom_APP_Init	8	static
+/Users/viktorhorvat/STM32Cube/watchplant_BLE/BLE_Custom/STM32_WPAN/App/custom_app.c:227:6:Custom_Temp_Update_Char	8	static
+/Users/viktorhorvat/STM32Cube/watchplant_BLE/BLE_Custom/STM32_WPAN/App/custom_app.c:236:6:Custom_Temp_Send_Notification	8	static
+/Users/viktorhorvat/STM32Cube/watchplant_BLE/BLE_Custom/STM32_WPAN/App/custom_app.c:252:6:Custom_Humid_Update_Char	8	static
+/Users/viktorhorvat/STM32Cube/watchplant_BLE/BLE_Custom/STM32_WPAN/App/custom_app.c:261:6:Custom_Humid_Send_Notification	8	static
